@@ -1,0 +1,3 @@
+C:/Users/ArribaSon/Desktop/SUSU/3DiVi/solver/cmake-build-debug/CMakeFiles/solver.dir
+C:/Users/ArribaSon/Desktop/SUSU/3DiVi/solver/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ArribaSon/Desktop/SUSU/3DiVi/solver/cmake-build-debug/CMakeFiles/rebuild_cache.dir

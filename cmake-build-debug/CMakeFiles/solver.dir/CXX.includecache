@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ArribaSon/Desktop/SUSU/3DiVi/solver/Tile.cpp
+Tile.h
+C:/Users/ArribaSon/Desktop/SUSU/3DiVi/solver/Tile.h
+
+C:/Users/ArribaSon/Desktop/SUSU/3DiVi/solver/Tile.h
+string
+-
+vector
+-
+fstream
+-
+string
+-
+
+C:/Users/ArribaSon/Desktop/SUSU/3DiVi/solver/main.cpp
+iostream
+-
+Windows.h
+-
+vector
+-
+Tile.h
+C:/Users/ArribaSon/Desktop/SUSU/3DiVi/solver/Tile.h
+
